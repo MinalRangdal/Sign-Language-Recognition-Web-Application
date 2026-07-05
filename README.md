@@ -18,7 +18,7 @@ Sign Language Learning Platform
   
   Installation and Setup
   1. Clone the repository:
-      git clone https://github.com/Sumukhak22/Echo_Hands.git
+      git clone (https://github.com/MinalRangdal/Sign-Language-Recognition-Web-Application)
       cd Echo_Hands
       
   2. Install required dependencies:
